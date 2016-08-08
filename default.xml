@@ -11,7 +11,7 @@
            review="review.cyanogenmod.org" />
 
   <remote  name="private"
-           fetch="https://github.com/tekcafexos" />
+           fetch="https://github.com/tekcafexos"
            revision="r1.0" />
 
   <default revision="refs/heads/cm-13.0"
